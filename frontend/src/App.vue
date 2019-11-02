@@ -2,7 +2,9 @@
   <div id="app">
     <div id="nav">
       <router-link to="/type/1">最受欢迎商圈</router-link> |
-
+      <router-link to="/type/2">性价比最高店铺</router-link> |
+      <router-link to="/type/3">美食聚集地</router-link> |
+      <router-link to="/type/4">服饰</router-link>
     </div>
     <router-view/>
   </div>
